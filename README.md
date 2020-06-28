@@ -1,2 +1,2 @@
 # GitDemo
-# delete.git
+# delete
